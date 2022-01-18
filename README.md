@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bensch98/bensch98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,4 +40,17 @@ About me:
 
 ### GitHub Stats
 
+<a href="https://github.com/bensch98">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensch98&theme=radical&show"/>
+</a>
+<a href="https://github.com/bensch98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show"/>
+</a>
+<a href="https://github.com/bensch98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show"/>
+</a>
 
+<!--
+[![bensch98's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show)](https://github.com/bensch98)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show)](https://github.com/bensch98)
+-->
