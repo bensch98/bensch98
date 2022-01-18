@@ -41,13 +41,15 @@ About me:
 ### GitHub Stats
 
 <a href="https://github.com/bensch98">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensch98&theme=radical&show"/>
+  <img style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=bensch98&theme=radical&show"/>
 </a>
+<br>
 <a href="https://github.com/bensch98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show"/>
+  <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show"/>
 </a>
+<br>
 <a href="https://github.com/bensch98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show"/>
+  <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show"/>
 </a>
 
 <!--
