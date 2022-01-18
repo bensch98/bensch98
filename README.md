@@ -52,6 +52,10 @@ About me:
   <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show"/>
 </a>
 
+### Acitivity
+
+[![bensch98's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bensch98&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 [![bensch98's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show)](https://github.com/bensch98)
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show)](https://github.com/bensch98)
