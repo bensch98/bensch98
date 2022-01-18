@@ -13,14 +13,14 @@ About me:
 
 <!-- Skills -->
 
-#### AI / Data Science
+### AI / Data Science
 
 [![Python](https://img.shields.io/badge/python-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-5E97D0.svg?&style=for-the-badge&logo=c++&logoColor=5E97D0)](https://cplusplus.com/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-ffffff.svg?&style=for-the-badge&logo=tensorflow&logoColor=FFA800)](https://www.tensorflow.org/)
 
 
-#### MLOps / DevOps
+### MLOps / DevOps
 
 [![Docker](https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-ffffff.svg?&style=for-the-badge&logo=kubernetes&logoColor=0444bc)](https://kubernetes.io/)
