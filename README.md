@@ -17,7 +17,7 @@ About me:
 
 [![Python](https://img.shields.io/badge/python-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
 [![C++](https://img.shields.io/badge/c++-5E97D0.svg?&style=for-the-badge&logo=c++&logoColor=5E97D0)](https://cplusplus.com)
-[![PyTorch](https://img.shields.io/badge/pytorch-262626.svg?&style=for-the-badge&logo=pytorch&logoColor=ee4c2c)](https://www.pytorch.org)
+[![PyTorch](https://img.shields.io/badge/pytorch-262626.svg?&style=for-the-badge&logo=pytorch&logoColor=ee4c2c)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-ffffff.svg?&style=for-the-badge&logo=tensorflow&logoColor=FFA800)](https://www.tensorflow.org)
 
 
