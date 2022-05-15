@@ -4,7 +4,6 @@
 
 About me:
 - 🌱 I’m currently learning C/C++ for computer vision applications.
-- ⚡ Fun fact: My last grade in computer science back in school was a 5 (E) (I don't suck anymore).
 - 💬 Ask me about AI, Deep Learning, Python, Computer Vision. (PyTorch > TensorFlow)
 - 📫 How to reach me:
 
