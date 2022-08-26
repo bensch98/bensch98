@@ -31,7 +31,7 @@ About me:
 
 [![bensch98's streak](https://github-readme-streak-stats.herokuapp.com/?user=bensch98&theme=radical&show)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![bensch98's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensch98&count_private=true&show_icons=true&theme=radical&show)](https://github.com/jstrieb/github-stats)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show)](https://github.com/jstrieb/github-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensch98&layout=compact&show_icons=true&theme=radical&show&hide=jupyter)](https://github.com/jstrieb/github-stats)
 
 
 ### Acitivity
