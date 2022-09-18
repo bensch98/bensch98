@@ -3,19 +3,20 @@
 ### Contact me
 
 About me:
-- 🌱 I’m currently learning C/C++ for computer vision applications.
-- 💬 Ask me about AI, Deep Learning, Python, Computer Vision. (PyTorch > TensorFlow)
-- 📫 How to reach me:
+- I’m currently writing my masters thesis on "Semantic Segmentation of Triangle Meshes via Geometric Deep Learning based on Non-Euclidean Geometry".
+- Ask me about AI, Deep Learning, Python, Computer Vision. (PyTorch > TensorFlow)
+- How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedikt-scheffler/)
 
 <!-- Skills -->
 
-### AI / Data Science
+### Programming / AI / Data Science
 
 [![Python](https://img.shields.io/badge/python-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
 [![C](https://img.shields.io/badge/c-5E97D0.svg?&style=for-the-badge&logo=c++&logoColor=5E97D0)](https://cplusplus.com)
 [![C++](https://img.shields.io/badge/c++-5E97D0.svg?&style=for-the-badge&logo=c++&logoColor=5E97D0)](https://cplusplus.com)
+[![Go](https://img.shields.io/badge/go-5E97D0.svg?&style=for-the-badge&logo=go&logoColor=5E97D0)](https://go.dev/doc/)
 [![PyTorch](https://img.shields.io/badge/pytorch-262626.svg?&style=for-the-badge&logo=pytorch&logoColor=ee4c2c)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-ffffff.svg?&style=for-the-badge&logo=tensorflow&logoColor=FFA800)](https://www.tensorflow.org)
 
