@@ -3,7 +3,8 @@
 ### Contact me
 
 About me:
-- I’m currently writing my masters thesis on "Semantic Segmentation of Triangle Meshes via Geometric Deep Learning based on Non-Euclidean Geometry".
+- I’m a assistant researcher at the Friedrich-Alexander-University at the Institute FAPS.
+- My research focuses on the deployment and lifecycle management of machine learning models as well as deep learning applications in the context of spatial assemblies.
 - Ask me about AI, Deep Learning, Python, Computer Vision. (PyTorch > TensorFlow)
 - How to reach me:
 
