@@ -26,11 +26,11 @@ About me:
 [![Kubernetes](https://img.shields.io/badge/kubernetes-ffffff.svg?&style=for-the-badge&logo=kubernetes&logoColor=0444bc)](https://kubernetes.io)
 [![Docker](https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com)
 [![KubeEdge](https://img.shields.io/badge/kubeedge-ffffff.svg?&style=for-the-badge&logo=kubernetes&logoColor=0444bc)](https://kubeedge.io/en)
-[![Containerd](https://img.shields.io/badge/containerd-ffffff.svg?&style=for-the-badge&logo=containerd)](https://containerd.io/)
-[![Argo CD](https://img.shields.io/badge/argocd-ffffff.svg?&style=for-the-badge&logo=argo)](https://argo-cd.readthedocs.io/en/stable/)
-[![Grafana](https://img.shields.io/badge/grafana-ffffff.svg?&style=for-the-badge&logo=grafana)](https://grafana.com/)
-[![Prometheus](https://img.shields.io/badge/prometheus-ffffff.svg?&style=for-the-badge&logo=prometheus)](https://prometheus.io/)
-[![Ansible](https://img.shields.io/badge/ansible-ffffff.svg?&style=for-the-badge&logo=ansible)](https://www.ansible.com/)
+[![Containerd](https://img.shields.io/badge/containerd-262626.svg?&style=for-the-badge&logo=containerd)](https://containerd.io/)
+[![Argo](https://img.shields.io/badge/argo-262626.svg?&style=for-the-badge&logo=argo)](https://argo-cd.readthedocs.io/en/stable/)
+[![Grafana](https://img.shields.io/badge/grafana-262626.svg?&style=for-the-badge&logo=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/prometheus-262626.svg?&style=for-the-badge&logo=prometheus)](https://prometheus.io/)
+[![Ansible](https://img.shields.io/badge/ansible-262626.svg?&style=for-the-badge&logo=ansible)](https://www.ansible.com/)
 
 
 
